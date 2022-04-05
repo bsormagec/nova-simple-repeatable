@@ -28,6 +28,12 @@
       ]
     }
   },
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bsormagec/nova-translations-loader"
+        }
+    ],
   "config": {
     "sort-packages": true
   },
